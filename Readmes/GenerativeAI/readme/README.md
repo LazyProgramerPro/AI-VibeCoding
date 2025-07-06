@@ -10,3 +10,5 @@ có khả năng tạo ra nội dung mới—chẳng hạn như văn bản, hình
 # Những cách sử dụng Generative AI
 
 ![alt text](image-1.png)
+
+# Cùng 1 đầu vào nhưng có thể cho ra nhiều đầu ra khác nhau tùy vào mô hình và ngữ cảnh đang sử dụng
